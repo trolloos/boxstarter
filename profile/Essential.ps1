@@ -269,7 +269,7 @@ if(Confirm-Install 'Boxstarter::Essential::Application')
     DisableEdgeShortcutCreation     # EnableEdgeShortcutCreation
     DisableIEFirstRun               # EnableIEFirstRun
     DisableFirstLogonAnimation      # EnableFirstLogonAnimation
-    DisableMediaSharing             # EnableMediaSharing
+    # DisableMediaSharing             EnableMediaSharing
     # UninstallMediaPlayer          # InstallMediaPlayer
     # UninstallInternetExplorer     # InstallInternetExplorer
     # UninstallWorkFolders          # InstallWorkFolders
